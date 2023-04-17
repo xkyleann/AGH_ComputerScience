@@ -99,7 +99,7 @@
 | **shareholder** | --- |
 | **spokesperson**  | _essential point, kırmızı izgi_ |
 
-# Unit 6.4
+### Unit 6.4
 | Word | Description |
 | --- | --- |
 | **adopt** | List all new or modified files |
@@ -162,7 +162,7 @@
 | **Reusable** | --- |
 | **Site**  | _essential point, kırmızı izgi_ |
 
-### Synonymus Match 
+## Synonymus Match 
 * **Adverse** --> _Difficult_
 * **Bear** --> _Accept_
 * **Carry on** --> _Countine_
@@ -182,4 +182,4 @@
 ## Passive Voice 
 ### Student A
 ### Student B
-
+1. It was three a clock. We **_were told_** (_tell_) to hurry up because we **_were being waited_** (_wait_).

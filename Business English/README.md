@@ -7,64 +7,63 @@
 ### Unit 6.1 | Corporate social responsibility 
 | Word | Description |
 | --- | --- |
-| **accurately** | _in a way that is correct and true in every detail_ |
-| **adequate** | _enough in quantity (yeterli)_|
-| **advancement** | _terfi_ |
-| **adverse times** | _bad time, zorlu zamanlar_ |
+| **accurately** | _In a way that is correct and true in every detail_ |
+| **adequate** | _Enough in quantity (yeterli)_|
+| **advancement** | _Terfi_ |
+| **adverse times** | _Bad time, zorlu zamanlar_ |
 | **bear (costs)** | --- |
-| **boost** | _arttırma_ |
-| **bottom line**  | _essential point, kırmızı izgi_ |
-| **carbon footprint** | _a measure of the amount of carbon dioxide that is produced by the activities of a person or company_ |
-| **civic** |_officially connected with a town or city (kentsel)_ |
-| **compensation** | _especially money, that somebody gives you because they have hurt you, or damaged something that you own (tazminat)_ |
-| **dignity** | _quality_ |
-| **disaster relief**  |  |
-| **end-user** | --- |
-| **fair trade** | List all new or modified files |
-| **maintain** | _Show file differences that haven't been staged_ |
-| **margin** | _kazanç_ |
-| **merit** | _personal value_ |
-| **mindful** | _careful_ |
-| **orderly** | _arranged_ |
-| **prioritize** 	 | --- |
-| **privileged** | --- |
-| **promptly** | _quickly_ |
-| **realize** | --- |
-| **reinforce** | --- |
-| **sound profit**   | --- |
-| **strive** | --- |
-| **tax loophole** | --- |
-| **throughout** |  |
-| **underprivileged** | _ _ |
+| **boost** | _Arttırma_ |
+| **bottom line**  | _Essential point, kırmızı izgi_ |
+| **carbon footprint** | _A measure of the amount of carbon dioxide that is produced by the activities of a person or company_ |
+| **civic** |_Officially connected with a town or city (kentsel)_ |
+| **compensation** | _Especially money, that somebody gives you because they have hurt you, or damaged something that you own (tazminat)_ |
+| **dignity** | _Quality,a calm and serious manner that deserves respect (itibar)_ |
+| **disaster relief**  | _money to help rebuild an area after a disaster_ |
+| **end-user** | _the person who actually uses a particular product_ |
+| **fair trade** | _Producers in developing countries in which fair prices are paid to the producers._ |
+| **maintain** | _Cause or enable to **continue**._ |
+| **margin** | _An amount by which something is won. (kazanç) |
+| **merit** | _Deserve or be worthy of_ |
+| **mindful** | _Conscious or aware of something **careful**_ |
+| **orderly** | _Arranged_ |
+| **prioritize** 	 | _According to their relative importance_ |
+| **privileged** | _Legally protected from being made public_ |
+| **promptly** | _**Quickly**_ |
+| **reinforce** | _Strengthen or support (güçlendirmek)_ |
+| **sound profit**   | _"Sound" means healthy or stable. In this context, it means a guaranteed profit that won't fluctuate over time or suddenly disappear_|
+| **strive** | _Efforts to achieve or obtain something **try** (çabalamak)_ |
+| **tax loophole** | _Vergi yasasındaki boşluklar dolayısıyla az vergi ödeme_		|
+| **throughout** | _In every part of a place or object_ |
+| **underprivileged** | _Not enjoying the same standard of living or rights as the majority of people in a society (temel haklardan mahrum)_ |
 | **virtuous circle** | --- |
 
-### Unit 6.2
+### Unit 6.2 | Meetings, ethical behavior and social performance 
 | Word | Description |
 | --- | --- |
-| **acknowledge** | List all new or modified files |
-| **contribute** | _enough,yeterli_|
-| **decency** | _terfi_ |
-| **deceptive** | _bad time, zorlu zamanlar_ |
-| **deliberately** | --- |
-| **dishonest** | --- |
-| **extravagant**  | _essential point, kırmızı izgi_ |
-| **give out** | --- |
-| **limit the impact** | --- |
+| **acknowledge** | _Kabullenmek_ |
+| **contribute** | _Katkıda bulunmak_|
+| **decency** |  _**Honest**, polite behaviour that follows accepted moral standards and shows respect for others_ |
+| **deceptive** | _You believe something that is not true (aldatıcı)_ |
+| **deliberately** | _On purpose (kasıtlı)_ |
+| **dishonest** | _Intended to mislead or cheat (sahtekar)_ |
+| **extravagant**  | _Spending money (savurgan)_ |
+| **give out** | _Inform (bildirmek)_ |
+| **limit the impact** | _You prevent it from becoming greater than a particular amount_ |
 | **minutes** | --- |
-| **misleading** | _quality_ |
+| **misleading** | _Giving the wrong idea or impression (göz boyama)_ |
 | **obey**  |  |
 | **party** | --- |
-| **prompt** | --- |
+| **prompt** | _Cause or bring about (hemen,çabuk)_ |
 | **settlement** | --- |
-| **side-track**  | _essential point, kırmızı izgi_ |
-| **stick to sth** | --- |
-| **take a vote on sth** | --- |
+| **side-track**  | _Asıl amaçtan kaymak_ |
+| **stick to sth** | _Do something that you promise_ |
+| **take a vote on sth** | _To express your choice or opinion_ |
 | **transparency** | --- |
-| **trustworthy** | _quality_ |
-| **unanimous**  |  |
-| **uphold** | --- |
+| **trustworthy** |  _Honest or truthful (güvenilir) |
+| **unanimous**  | _Fully in agreement (aynı fikirde)_ |
+| **uphold** | _Confirm or support (desteklemek) 	 |
 
-### Unit 6.3
+### Unit 6.3 | The passive and reported speech
 | Word | Description |
 | --- | --- |
 | **accusation** | List all new or modified files |
@@ -163,21 +162,21 @@
 | **Site**  | _essential point, kırmızı izgi_ |
 
 ## Synonymus Match 
-* **Adverse** --> _Difficult_
-* **Bear** --> _Accept_
-* **Carry on** --> _Countine_
-* **Compensation** --> _Payment_
-* **Dignity** --> _Quality_
-* **Fair** --> _Just_
-* **Fulfil** --> _Make a Something Happen_
-* **Launch** --> _Introduce_
-* **Maintain** --> _Keep_
-* **Merit** --> _Personal Value_
-* **Mindful** --> _Careful_
-* **Sound** --> _Reasonable_
-* **Strive** --> _Try_
-* **Principles** --> _Rules_
-* **Promplty** --> _Quickly_
+* **Adverse** --> _**Difficult**_
+* **Bear** --> _**Accept**_
+* **Carry on** --> _**Countine**_
+* **Compensation** --> _**Payment**_
+* **Dignity** --> _**Quality**_
+* **Fair** --> _**Just**_
+* **Fulfil** --> _**Make a Something Happen**_
+* **Launch** --> _**Introduce**_
+* **Maintain** --> _**Keep**_
+* **Merit** --> _**Personal Value**_
+* **Mindful** --> _**Careful**_
+* **Sound** --> _**Reasonable**_
+* **Strive** --> _**Try**_
+* **Principles** --> _**Rules**_
+* **Promplty** --> _**Quickly**_
 
 ## Passive Voice 
 ### Student A

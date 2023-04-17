@@ -4,19 +4,19 @@
 * Passive Voice
 
 ## Grammer 
-### Unit 6.1 
+### Unit 6.1 | Corporate social responsibility 
 | Word | Description |
 | --- | --- |
-| **accurately** | List all new or modified files |
-| **adequate** | _enough,yeterli_|
+| **accurately** | _in a way that is correct and true in every detail_ |
+| **adequate** | _enough in quantity (yeterli)_|
 | **advancement** | _terfi_ |
 | **adverse times** | _bad time, zorlu zamanlar_ |
 | **bear (costs)** | --- |
-| **boost** | --- |
+| **boost** | _arttırma_ |
 | **bottom line**  | _essential point, kırmızı izgi_ |
-| **carbon footprint** | --- |
-| **civic** | --- |
-| **compensation** | --- |
+| **carbon footprint** | _a measure of the amount of carbon dioxide that is produced by the activities of a person or company_ |
+| **civic** |_officially connected with a town or city (kentsel)_ |
+| **compensation** | _especially money, that somebody gives you because they have hurt you, or damaged something that you own (tazminat)_ |
 | **dignity** | _quality_ |
 | **disaster relief**  |  |
 | **end-user** | --- |
@@ -181,5 +181,35 @@
 
 ## Passive Voice 
 ### Student A
+1. When I entered the room, one of the applicant **xxxx** (interview).
+2. **Had** this work **been done** (do) before tou went to Moscow?
+3. This exercise may **be written** (write) with pencil.
+4. There were a number of applicants for post but only 3 **xxxx** (chose) for interview.
+5. **Has** the plane **been approved** (approve)? No, it **is being discussed**(discuss) now. How long **has** it **been discussed** (disscuss)?
+6. The money **was lent** (lend) to him two months ago, but it **has not been given** (not give) back yet.
+7. The idea **xxxx** (suggest) to me last month by one of the entre.
+8. The first draft resolution **was not discussed** (not disscussed) yesterday; it **had been withdrawn** (withdraw) long before the beginning of the meeting.
+9. The business dat was in high gearİ the mail **was being looked** (look) throught, documents **were being typed** (type),letters **were being answered** and, talks **were being hold** (hold).
+10. Recipents accept the idea that money aid **xxxx** (sometimes;waste).
+11. Please remember that our monthly meetings, **xxxx** (hold) downstairs.
+12. On September 9,1850 California **was admitted** (admit) to the Union as thirty-first state. 
+13. Not all the neccesery things **had bee bought** (buy) for our trip that is why the departure **was posponed** (postpone)
+14. I will leave the job unless I **xxxx** (pay) a higher salary.
+15. Do you believe that such a problem can **be solved**(solve)?
+
 ### Student B
-1. It was three a clock. We **_were told_** (_tell_) to hurry up because we **_were being waited_** (_wait_).
+8. It was three a clock. We **_were told_** (tell) to hurry up because we **_were being waited_** (wait).
+9. It must **be done** (do) without delays.
+10. In the course of an interview for a job you **xxxx** (ask) to give brief details of your life.
+11. If you **are asked** (ask) about it, will you be able to answer?
+12. He wants to know when the final decision **will be taken** (take). The activities of the commitee and their delays **have** already **been** spoken about it.
+13. He is not in town; he **has been sent** (send) on a special mission.
+14. Executives pay in the UK **xxxx** (rise) three times faster than average pay in the last five years.
+15. Employees **xxxx**(always,pay) bonuses for suggesting improvements, however small. 
+16. Dynamite **was invented** (invent) by Alfred Bernhard.
+17. Do not speak in a loud voice; we **are being listened**(listen).
+18. Do not come in the the compartment **is being fixed** (fix) now.
+19. By the time, he arrives everything **will have been settled** (settle).
+20. A new underground line **is beind constructed** now. They say one of its stations **will be built** (build) in my street.
+21. Negotions in Finland **xxxx** (generally,hold) in offices, not restaurants.
+22. Wait a minute. The table **is being laid** (lay).

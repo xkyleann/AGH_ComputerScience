@@ -1,10 +1,10 @@
-###  Unit 6 Business English Prep 
+#  Unit 6 Business English Prep 
 * Grammer
 * Gerund & Infinitives
 * Passive Voice
 
 ## Grammer 
-# Unit 6.1 
+### Unit 6.1 
 | Word | Description |
 | --- | --- |
 | **accurately** | List all new or modified files |
@@ -38,7 +38,7 @@
 | **underprivileged** | _ _ |
 | **virtuous circle** | --- |
 
-# Unit 6.2
+### Unit 6.2
 | Word | Description |
 | --- | --- |
 | **acknowledge** | List all new or modified files |
@@ -64,7 +64,7 @@
 | **unanimous**  |  |
 | **uphold** | --- |
 
-# Unit 6.3
+### Unit 6.3
 | Word | Description |
 | --- | --- |
 | **accusation** | List all new or modified files |
@@ -119,7 +119,7 @@
 | **tactfully** | List all new or modified files |
 | **unwise** | _enough,yeterli_|
 
-# Unit 6.5
+### Unit 6.5
 | Word | Description |
 | --- | --- |
 | **Absenteeism** | List all new or modified files |
@@ -144,7 +144,7 @@
 | **Substantial benefits** | --- |
 | **Take measures** | List all new or modified files |
 
-# Unit 6.6
+### Unit 6.6
 | Word | Description |
 | --- | --- |
 | **Attract** | List all new or modified files |
@@ -162,19 +162,24 @@
 | **Reusable** | --- |
 | **Site**  | _essential point, kırmızı izgi_ |
 
-# Synonymus Match 
-1. **Adverse** --> _Difficult_
-2. **Bear** --> _Accept_
-3. **Carry on** --> _Countine_
-4. **Compensation** --> _Payment_
-5. **Dignity** --> _Quality_
-6. **Fair** --> _Just_
-7. **Fulfil** --> _Make a Something Happen_
-8. **Launch** --> _Introduce_
-9. **Maintain** --> _Keep_
-10. **Merit** --> _Personal Value_
-11. **Mindful** --> _Careful_
-12. **Sound** --> _Reasonable_
-13. **Strive** --> _Try_
-14. **Principles** --> _Rules_
-15. **Promplty** --> _Quickly_
+### Synonymus Match 
+* **Adverse** --> _Difficult_
+* **Bear** --> _Accept_
+* **Carry on** --> _Countine_
+* **Compensation** --> _Payment_
+* **Dignity** --> _Quality_
+* **Fair** --> _Just_
+* **Fulfil** --> _Make a Something Happen_
+* **Launch** --> _Introduce_
+* **Maintain** --> _Keep_
+* **Merit** --> _Personal Value_
+* **Mindful** --> _Careful_
+* **Sound** --> _Reasonable_
+* **Strive** --> _Try_
+* **Principles** --> _Rules_
+* **Promplty** --> _Quickly_
+
+## Passive Voice 
+### Student A
+### Student B
+

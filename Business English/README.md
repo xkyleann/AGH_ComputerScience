@@ -1,9 +1,9 @@
 #  Unit 6 Business English Prep 
-* Grammer
+* Grammar
 * Gerund & Infinitives
 * Passive Voice
 
-## Grammer 
+## Grammar
 ### Unit 6.1 | Corporate social responsibility 
 | Word | Description |
 | --- | --- |
